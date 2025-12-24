@@ -1,0 +1,25 @@
+PREMIUM CALCULATION – METHODOLOGY & TERMS (INTERNAL PROTOTYPE)
+
+Purpose
+This document explains the premium estimate methodology used by the prototype quote assistant. The output is an estimate for demonstration and not a binding offer.
+
+Inputs (prototype)
+- Vehicle age (years)
+- Engine power (horsepower; may be approximated from engine size)
+- City (primary use location)
+- Coverage level (basic, standard, premium)
+
+Prototype Factors
+1) Base rate: fixed starting value.
+2) Vehicle age factor: increases slowly after a threshold year.
+3) Power factor: increases above a threshold horsepower.
+4) City factor: approximate risk adjustment by area.
+5) Coverage factor: scales from basic to premium.
+
+Terms & Conditions (prototype)
+- Estimates can differ from final premium after underwriting.
+- Missing or incorrect inputs can materially change estimates.
+- Additional real-world factors not included: driver age, driving history, annual mileage, claims history, deductibles, vehicle value, theft risk by model, usage type, garaging, and discounts.
+
+Compliance Note
+This prototype is for internal testing and should present results as “estimate” with disclaimers. Final offers require policy schedule and regulatory-compliant pricing tables.

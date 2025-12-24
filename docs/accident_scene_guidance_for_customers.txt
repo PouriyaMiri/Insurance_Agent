@@ -1,0 +1,13 @@
+ACCIDENT SCENE GUIDANCE (CUSTOMER-FACING SCRIPT, INTERNAL)
+
+If an accident occurs:
+1) Safety first: check for injuries, move to a safe place if possible.
+2) Emergency services: call emergency services if there are injuries, hazards, or significant road blockage.
+3) Exchange information: names, contacts, license plates, insurer details.
+4) Evidence: take photos of vehicles, road conditions, and surrounding signage.
+5) Witnesses: get contact details if available.
+6) Police: follow local requirements; request a reference number if police attend.
+7) Do not admit fault: exchange facts only.
+8) Notify insurer: report promptly and keep receipts (towing, rental, urgent costs).
+
+Goal: help customer remain calm, safe, and collect the minimum viable evidence.

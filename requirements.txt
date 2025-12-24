@@ -1,0 +1,9 @@
+faiss-cpu
+numpy
+sentence-transformers
+rich
+pydantic
+sounddevice
+soundfile
+edge-tts
+faster-whisper

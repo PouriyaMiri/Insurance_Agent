@@ -1,0 +1,24 @@
+PRIVACY & DATA HANDLING (INTERNAL SUMMARY)
+
+Data collected during claims:
+- Personal details (name, contact)
+- Incident details (location, time, description)
+- Vehicle details (registration, photos, repair invoices)
+- Third-party details (if provided)
+- Police reports (if applicable)
+
+Data usage:
+- Claims handling and investigation
+- Fraud prevention and risk analysis
+- Customer support and communications
+
+Retention:
+- Stored for required legal/operational periods.
+- Access limited to authorized staff and systems.
+
+Customer guidance:
+- Share only relevant information.
+- Keep sensitive documents secure.
+- Ask for clarification on what is required and why.
+
+This is a simplified internal summary for prototype behavior and scripting.
